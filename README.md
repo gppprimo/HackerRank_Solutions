@@ -1,6 +1,3 @@
-# HackerRank_Solutions
-A collection of solutions of Hackerrank problems.
-
 <p align="center">
     <a href="https://www.hackerrank.com/RodneyShag">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
@@ -8,7 +5,11 @@ A collection of solutions of Hackerrank problems.
     <br>Solutions to HackerRank problems
 </p>
 
+<br>
+</br>
+<br>
+</br>
 
 | Challenge |          Lang               | Solution |                  
 |:---:|:------------------------------------------------------------------:|:------:|
-|[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)                                       |   C++   | [Solution.java]()|
+|[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|   C++   | [Counter_Game.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Counter_Game.cpp)|
