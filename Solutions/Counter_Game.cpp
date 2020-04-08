@@ -3,10 +3,6 @@
 //
 #include "func.h"
 
-bool check_pow_tow_iter(){
-
-}
-
 bool check_pow_two(long n){
     int num_bits = log2(n), curr_bit = 0;
     while(not (n % 2)){
