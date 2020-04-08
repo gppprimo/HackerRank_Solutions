@@ -26,5 +26,6 @@ using std::pow;
 bool check_pow_two(long);
 long next_lower_pow_two(long);
 string counterGame(long n);
+double solve(vector<vector<int>>);
 
 #endif //TEST_FUNC_H
