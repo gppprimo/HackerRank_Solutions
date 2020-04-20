@@ -14,3 +14,4 @@
 |:---:|:------------------------------------------------------------------:|:------:|
 |[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|   C++   | [Counter_Game.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Counter_Game.cpp)|
 |[Most Distant](https://www.hackerrank.com/challenges/most-distant/problem)|   C++   | [Most_Distant.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Most_Distant.cpp)|
+|[Climbing_Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|   C++   | [Climbing_Leaderboard.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Most_Distant.cpp)|
