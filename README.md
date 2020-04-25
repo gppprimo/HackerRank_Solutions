@@ -14,4 +14,6 @@
 |:---:|:------------------------------------------------------------------:|:------:|
 |[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|   C++   | [Counter_Game.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Counter_Game.cpp)|
 |[Most Distant](https://www.hackerrank.com/challenges/most-distant/problem)|   C++   | [Most_Distant.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Most_Distant.cpp)|
-|[Climbing_Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|   C++   | [Climbing_Leaderboard.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Climbing_Leaderboard.cpp)|
+|[Climbing Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|   C++   | [Climbing_Leaderboard.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Climbing_Leaderboard.cpp)|
+|[Jumping on the Cloud Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?h_r=internal-search)|   C++   | [Jumping_on_the_Clouds_Revisited.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Jumping_on_the_Clouds_Revisited.cpp)|
+|[Possible Path](https://www.hackerrank.com/challenges/possible-path/problem)|   C++   | [Possible_Path.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Possible_Path.cpp)|
