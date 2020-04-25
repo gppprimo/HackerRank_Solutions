@@ -11,7 +11,7 @@
 </br>
 
 
-<div style="text-align: center">
+<div style="align-items: center">
 
 | Challenge |          Lang               | Solution |                  
 |:---:|:------------------------------------------------------------------:|:------:|
