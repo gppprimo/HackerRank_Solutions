@@ -1,3 +1,4 @@
+<div style="text-align: center">
 
 <p align="center">
     <a href="https://www.hackerrank.com/RodneyShag">
@@ -11,7 +12,7 @@
 <br>
 </br>
 
-<div style="text-align: center">
+
 <!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
 
 Challenge | Lang | Solution                 
