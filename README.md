@@ -12,7 +12,7 @@
 <br>
 </br>
 
-<p align="center">
+<table style="text-align: center">
 <!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
 
 Challenge | Lang | Solution                 
@@ -25,4 +25,4 @@ Challenge | Lang | Solution
 |[Possible Path](https://www.hackerrank.com/challenges/possible-path/problem)|   C++   | [Possible_Path.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Possible_Path.cpp)|
 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|   C++   | [Equalize_the_Array.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Equalize_the_Array.cpp)|
 
-</p>
+</table>
