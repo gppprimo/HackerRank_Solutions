@@ -12,6 +12,9 @@
 #include <vector>
 #include <unordered_map>
 #include <unordered_set>
+#include <algorithm>
+#include <map>
+#include <functional>
 
 using std::string;
 using std::stringstream;
@@ -21,11 +24,16 @@ using std::endl;
 using std::unordered_map;
 using std::unordered_set;
 using std::pow;
+using std::pair;
+using std::map;
+using std::greater;
 
 
-bool check_pow_two(long);
-long next_lower_pow_two(long);
 string counterGame(long n);
 double solve(vector<vector<int>>);
+vector<int> climbingLeaderboard(const vector<int>&, const vector<int>&);
+int jumpingOnClouds(const vector<int> &, int );
+string solve(long, long, long, long);
+int equalizeArray(const vector<int> &);
 
 #endif //TEST_FUNC_H
