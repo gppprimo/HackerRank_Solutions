@@ -11,7 +11,7 @@
 <br>
 </br>
 
-<div style="text: center">
+<div style="text-align: center">
 <table>
 <!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
 
