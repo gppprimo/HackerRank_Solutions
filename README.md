@@ -16,7 +16,6 @@
 
 Challenge | Lang | Solution                 
 :---:|:---------:|:------:
-
 |[Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem)| C++ | [Cutting_Boards.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Cutting_Boards.cpp)|
 |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)| C++ | [Greedy_Florist.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Greedy_Florist.cpp)|
 |[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|C++|[Counter_Game.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Counter_Game.cpp)|
