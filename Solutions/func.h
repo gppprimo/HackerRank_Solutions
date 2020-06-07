@@ -35,5 +35,7 @@ vector<int> climbingLeaderboard(const vector<int>&, const vector<int>&);
 int jumpingOnClouds(const vector<int> &, int );
 string solve(long, long, long, long);
 int equalizeArray(const vector<int> &);
+int boardCutting(vector<int>&, vector<int>&);
+
 
 #endif //TEST_FUNC_H
