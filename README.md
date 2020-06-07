@@ -12,13 +12,12 @@
 <br>
 </br>
 
-<center>
 <!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
 
 Challenge | Lang | Solution                 
 :---:|:---------:|:------:
 
-|[Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem)| C++ | [Cutting_Boards.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Greedy_Florist.cpp)|
+|[Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem)| C++ | [Cutting_Boards.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Cutting_Boards.cpp)|
 |[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)| C++ | [Greedy_Florist.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Greedy_Florist.cpp)|
 |[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|C++|[Counter_Game.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Counter_Game.cpp)|
 |[Most Distant](https://www.hackerrank.com/challenges/most-distant/problem)|   C++   | [Most_Distant.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Most_Distant.cpp)|
@@ -27,4 +26,3 @@ Challenge | Lang | Solution
 |[Possible Path](https://www.hackerrank.com/challenges/possible-path/problem)|   C++   | [Possible_Path.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Possible_Path.cpp)|
 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|   C++   | [Equalize_the_Array.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Equalize_the_Array.cpp)|
 
-</center>
