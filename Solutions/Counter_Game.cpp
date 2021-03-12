@@ -5,7 +5,7 @@
 
 bool check_pow_two(long n){
     int num_bits = log2(n), curr_bit = 0;
-    while(not (n % 2)){
+    while(n % 2 == 0){
         n = n / 2;
         ++curr_bit;
     }
