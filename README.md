@@ -16,15 +16,18 @@
 
 Challenge | Lang | Solution                 
 :---:|:---------:|:------:
-|[Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem)| C++ | [Cutting_Boards.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Cutting_Boards.cpp)|
-|[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)| C++ | [Greedy_Florist.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Greedy_Florist.cpp)|
+|[Cutting boards](https://www.hackerrank.com/challenges/board-cutting/problem)| C++ | [Cutting_Boards.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Cutting_Boards.cpp)|
+|[Greedy florist](https://www.hackerrank.com/challenges/greedy-florist/problem)| C++ | [Greedy_Florist.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Greedy_Florist.cpp)|
 |[Counter game](https://www.hackerrank.com/challenges/counter-game/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|C++|[Counter_Game.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Counter_Game.cpp)|
-|[Most Distant](https://www.hackerrank.com/challenges/most-distant/problem)|   C++   | [Most_Distant.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Most_Distant.cpp)|
-|[Climbing Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|   C++   | [Climbing_Leaderboard.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Climbing_Leaderboard.cpp)|
-|[Jumping on the Cloud Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?h_r=internal-search)|   C++   | [Jumping_on_the_Clouds_Revisited.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Jumping_on_the_Clouds_Revisited.cpp)|
-|[Possible Path](https://www.hackerrank.com/challenges/possible-path/problem)|   C++   | [Possible_Path.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Possible_Path.cpp)|
-|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|   C++   | [Equalize_the_Array.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Equalize_the_Array.cpp)|
-|[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=60-day-campaign)|   GO   | [Flipping_bits.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Flipping_bits.go)|
-|[Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|   C++   | [Camel_Case.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
+|[Most distant](https://www.hackerrank.com/challenges/most-distant/problem)|   C++   | [Most_Distant.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Most_Distant.cpp)|
+|[Climbing leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|   C++   | [Climbing_Leaderboard.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Climbing_Leaderboard.cpp)|
+|[Jumping on the cloud revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?h_r=internal-search)|   C++   | [Jumping_on_the_Clouds_Revisited.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Jumping_on_the_Clouds_Revisited.cpp)|
+|[Possible path](https://www.hackerrank.com/challenges/possible-path/problem)|   C++   | [Possible_Path.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Possible_Path.cpp)|
+|[Equalize the array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|   C++   | [Equalize_the_Array.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Equalize_the_Array.cpp)|
+|[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=60-day-campaign)|   GO   | [Flipping_bits.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Flipping_bits.go)|
+|[Camel case](https://www.hackerrank.com/challenges/camelcase/problem)|   C++   | [Camel_Case.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
+|[Strong password](https://www.hackerrank.com/challenges/strong-password)|   C++   | [Strong_Password.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
+
+
 
 
