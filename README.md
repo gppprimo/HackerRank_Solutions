@@ -27,6 +27,7 @@ Challenge | Lang | Solution
 |[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=60-day-campaign)|   GO   | [Flipping_bits.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Flipping_bits.go)|
 |[Camel case](https://www.hackerrank.com/challenges/camelcase/problem)|   C++   | [Camel_Case.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
 |[Strong password](https://www.hackerrank.com/challenges/strong-password)|   C++   | [Strong_Password.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Strong_Password.cpp)|
+|[The time in the words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|   C++   | [The_Time_In_The_Words.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/The_Time_In_The_Words.cpp)|
 
 
 
