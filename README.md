@@ -26,7 +26,7 @@ Challenge | Lang | Solution
 |[Equalize the array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|   C++   | [Equalize_the_Array.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Equalize_the_Array.cpp)|
 |[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=60-day-campaign)|   GO   | [Flipping_bits.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Flipping_bits.go)|
 |[Camel case](https://www.hackerrank.com/challenges/camelcase/problem)|   C++   | [Camel_Case.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
-|[Strong password](https://www.hackerrank.com/challenges/strong-password)|   C++   | [Strong_Password.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
+|[Strong password](https://www.hackerrank.com/challenges/strong-password)|   C++   | [Strong_Password.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Strong_Password.cpp)|
 
 
 
