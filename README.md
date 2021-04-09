@@ -28,6 +28,7 @@ Challenge | Lang | Solution
 |[Camel case](https://www.hackerrank.com/challenges/camelcase/problem)|   C++   | [Camel_Case.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Camel_Case.cpp)|
 |[Strong password](https://www.hackerrank.com/challenges/strong-password)|   C++   | [Strong_Password.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Strong_Password.cpp)|
 |[The time in the words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|   C++   | [The_Time_In_The_Words.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/The_Time_In_The_Words.cpp)|
+|[Find the median](https://www.hackerrank.com/challenges/the-time-in-words/problem)|   GO   | [Find_the_median.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Find_the_median.go)|
 
 
 
