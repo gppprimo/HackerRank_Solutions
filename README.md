@@ -30,6 +30,7 @@ Challenge | Lang | Solution
 |[The time in the words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|   C++   | [The_Time_In_The_Words.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/The_Time_In_The_Words.cpp)|
 |[Find the median](https://www.hackerrank.com/challenges/find-the-median/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=60-day-campaign)|   GO   | [Find_the_median.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Find_the_median.go)|
 |[Nested list](https://www.hackerrank.com/challenges/nested-list/problem)|   PYTHON   | [Nested_list.py](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Nested_list.py)|
+|[Text wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|   PYTHON   | [Text_wrap.py](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Text_wrap.py)|
 
 
 
