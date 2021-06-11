@@ -12,8 +12,9 @@
 <br>
 </br>
 
-<!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
+<center>
 
+<!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
 Challenge | Lang | Solution                 
 :---:|:---------:|:------:
 |[Cutting boards](https://www.hackerrank.com/challenges/board-cutting/problem)| C++ | [Cutting_Boards.cpp](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Cutting_Boards.cpp)|
@@ -35,5 +36,5 @@ Challenge | Lang | Solution
 |[Fair Rotations](https://www.hackerrank.com/challenges/fair-rations/problem)|   GO   | [Fair_Rotations.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Fair_Rations.go)|
 
 
-
+</center>
 
