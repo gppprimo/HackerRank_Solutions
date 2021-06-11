@@ -1,6 +1,5 @@
 
 
-<p align="center">
     <a href="https://www.hackerrank.com/giupeppe0db">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
@@ -11,6 +10,7 @@
 </br>
 <br>
 </br>
+
 
 <!--|[challenge_name](link_challenge) |   prog_lang   | [file_name](path_file)| -->
 Challenge | Lang | Solution                 
@@ -33,5 +33,3 @@ Challenge | Lang | Solution
 |[String formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|   PYTHON   | [String_formatting.py](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/String_formatting.py)|
 |[Fair Rotations](https://www.hackerrank.com/challenges/fair-rations/problem)|   GO   | [Fair_Rotations.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Fair_Rations.go)|
 
-
-</p>
