@@ -32,6 +32,7 @@ Challenge | Lang | Solution
 |[Nested list](https://www.hackerrank.com/challenges/nested-list/problem)|   PYTHON   | [Nested_list.py](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Nested_list.py)|
 |[Text wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|   PYTHON   | [Text_wrap.py](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Text_wrap.py)|
 |[String formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|   PYTHON   | [String_formatting.py](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/String_formatting.py)|
+|[Fair Rotations](https://www.hackerrank.com/challenges/fair-rations/problem)|   GO   | [Fair_Rotations.go](https://github.com/gppprimo/HackerRank_Solutions/blob/master/Solutions/Fair_Rations.go)|
 
 
 
