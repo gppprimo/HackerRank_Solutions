@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/giupeppe0db">
-        <img style="width: 100%;max-height: 100%" src="https://github.com/gppprimo/HackerRank_Solutions/blob/master/hr.png"/>
+        <img style="width: 75%;max-height: 100%" src="https://github.com/gppprimo/HackerRank_Solutions/blob/master/hr.png"/>
     </a>
 
 <br>
