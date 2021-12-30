@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/giupeppe0db">
-        <img height=85 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+        <img height=85 src="https://github.com/gppprimo/HackerRank_Solutions/blob/master/hr.png">
     </a>
     <br>Solutions to HackerRank problems
 
